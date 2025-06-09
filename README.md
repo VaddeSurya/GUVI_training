@@ -1,2 +1,2 @@
-# GUVI_training
+# Java_training
 This is the training that used to enhance the skill on coding as well as on industry
